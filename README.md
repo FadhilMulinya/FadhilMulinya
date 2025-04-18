@@ -11,6 +11,6 @@ I'm deeply interested in digital identities, public goods, open source projects,
 Always learning, always building, and always down for good conversations around tech and community.
 
 Let’s connect:  
-[Twitter](https://twitter.com/mulinyafadhil) • [LinkedIn](https://linkedin.com/in/fadhil-mulinya) • 
+[Twitter](https://twitter.com/mulinyafadhil) • [LinkedIn](https://www.linkedin.com/in/fadhil-mulinya-35464b238/) • 
 ---
 
