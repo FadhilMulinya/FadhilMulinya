@@ -2,7 +2,7 @@
 
 **Product Engineer** building agents, financial systems, and infrastructure.
 
-> I design and ship systems that automate workflows, move money, and scale operations. ## 📊 Activity & Stats
+> I design and ship systems that automate workflows, move money, and scale operations.
 
 <div align="center">
 
