@@ -49,11 +49,13 @@ I care about **usability, execution, and real-world impact** — not theory.
 
 ## 📊 GitHub Stats
 
-![Fadhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadhilMulinya&show_icons=true&theme=transparent)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadhilMulinya&layout=compact&theme=transparent)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FadhilMulinya&show_icons=true&theme=transparent" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadhilMulinya&layout=compact&theme=transparent" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fadhil&theme=transparent" />
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fadhil)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ---
 
