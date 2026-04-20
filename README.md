@@ -2,38 +2,36 @@
 
 # Fadhil Mulinya
 
-**Product Engineer** focused on building agents, blockchain systems, and infrastructure.
+**Product Engineer** — building agents, blockchain systems, and infrastructure.
+
+> I build systems that automate workflows, move money, and scale users.
 
 ---
 
 ## 🧠 About Me
 
-I build **products, not just code** — systems that automate workflows, move money, and scale users.
-
-- Product Engineer (end-to-end systems thinking)
-- Deep focus on **agentic systems, blockchain, and infrastructure**
-- Backend-heavy (Node.js, TypeScript, distributed systems)
-- Strong grounding in **mechanism design, DeFi, and digital identity**
-
-I care about **usability, execution, and real-world impact** — not theory.
+- Product-focused engineer (not just code, actual usable systems)
+- Deep focus on **agentic systems, blockchain, and infra**
+- Backend-heavy: Node.js, TypeScript, distributed systems
+- Strong interest in **DeFi, mechanism design, digital identity**
 
 ---
 
-## ⚙️ What I’m Building
+## ⚙️ Current Focus
 
-### 🚀 Onhandl
-> Agents that manage money, tasks, and workflows.
+### 🚀 Onhandl  
+Agents that manage money, tasks, and workflows.
 
 - Low-code / no-code agent infrastructure  
-- Financial automation (payments, links, execution flows)  
-- Multi-channel execution (bots, APIs, apps)  
+- Payment automation (links, execution flows)  
+- Multi-channel agents (bots, APIs, apps)  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
-**Languages**
-- TypeScript, Solidity, JavaScript
+**Core**
+- TypeScript, Solidity
 
 **Backend & Infra**
 - Node.js, Fastify, MongoDB, Docker, Nginx
@@ -47,19 +45,21 @@ I care about **usability, execution, and real-world impact** — not theory.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity & Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FadhilMulinya&show_icons=true&theme=transparent" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadhilMulinya&layout=compact&theme=transparent" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fadhil&theme=transparent" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FadhilMulinya&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadhilMulinya&layout=compact&theme=transparent&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fadhil&theme=transparent&hide_border=true&layout=compact&display_format=time&custom_title=Dev%20Activity" />
 
 </div>
 
 ---
 
-## 📫 Reach Out
+## 📫 Connect
 
 - Twitter: https://twitter.com/mulinyafadhil  
 - LinkedIn: https://www.linkedin.com/in/fadhil-mulinya-35464b238/  
