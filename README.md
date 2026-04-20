@@ -1,4 +1,8 @@
-![Header] ## 📊 Activity & Stats
+![Header](# Fadhil Mulinya
+
+**Product Engineer** building agents, financial systems, and infrastructure.
+
+> I design and ship systems that automate workflows, move money, and scale operations. ## 📊 Activity & Stats)
 
 <div align="center">
 
@@ -9,12 +13,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fadhil&theme=transparent&hide_border=true&layout=compact&display_format=time&custom_title=Dev%20Activity" />
 
 </div>
-
-# Fadhil Mulinya
-
-**Product Engineer** building agents, financial systems, and infrastructure.
-
-> I design and ship systems that automate workflows, move money, and scale operations.
 
 ---
 
