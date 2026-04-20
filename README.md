@@ -53,6 +53,8 @@ I care about **usability, execution, and real-world impact** — not theory.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FadhilMulinya&layout=compact&theme=transparent)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fadhil)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 📫 Reach Out
