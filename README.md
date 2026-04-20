@@ -6,6 +6,12 @@
 
 <div align="center">
 
+<!-- WakaTime Badge (TOP) -->
+<img src="https://wakatime.com/badge/user/018d6afc-ecc2-42ac-a98e-301cad489ceb.svg" />
+
+<br/><br/>
+
+<!-- Stats Row -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FadhilMulinya&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadhilMulinya&layout=compact&theme=transparent&hide_border=true" />
@@ -22,12 +28,10 @@
 |-------------------|----------------------------------------------------------------------------------------|
 | Chains (EVM)      | Ethereum, Base, Scroll, Lisk                                                         |
 | Chains (Non-EVM)  | Stellar, CKB Nervos                                                                 |
-| Privacy           | Aztec (ZK systems, private execution)                                          |
-| Languages         | TypeScript, JavaScript, Python, Rust, Java, Noir, C                                          |
+| Privacy           | Aztec (ZK systems, private execution)                                                |
+| Languages         | TypeScript, JavaScript, Python, Rust, Java, Noir, C                                  |
 | Smart Contracts   | Solidity, Foundry, OpenZeppelin                                                      |
 | Identity          | ENS                                                                                |
 | Systems           | Payments, wallets, agent execution, automation pipelines, indexing                  |
 
 > Built across multiple ecosystems with a strong focus on payments, automation, and privacy-aware systems.
-
----
