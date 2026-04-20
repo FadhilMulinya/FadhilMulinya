@@ -31,10 +31,3 @@
 > Built across multiple ecosystems with a strong focus on payments, automation, and privacy-aware systems.
 
 ---
-
-## 📫 Work With Me
-
-- Twitter: https://twitter.com/mulinyafadhil  
-- LinkedIn: https://www.linkedin.com/in/fadhil-mulinya-35464b238/  
-
----
