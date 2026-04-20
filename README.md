@@ -23,7 +23,7 @@
 | Chains (EVM)      | Ethereum, Base, Scroll, Lisk                                                         |
 | Chains (Non-EVM)  | Stellar, CKB Nervos                                                                 |
 | Privacy           | Aztec (ZK systems, private execution)                                          |
-| Languages         | TypeScript, JavaScript, Python, Rust, Java, Noir, C,                                          |
+| Languages         | TypeScript, JavaScript, Python, Rust, Java, Noir, C                                          |
 | Smart Contracts   | Solidity, Foundry, OpenZeppelin                                                      |
 | Identity          | ENS                                                                                |
 | Systems           | Payments, wallets, agent execution, automation pipelines, indexing                  |
