@@ -2,46 +2,58 @@
 
 # Fadhil Mulinya
 
-**Product Engineer** — building agents, blockchain systems, and infrastructure.
+**Product Engineer** building agents, financial systems, and infrastructure.
 
-> I build systems that automate workflows, move money, and scale users.
-
----
-
-## 🧠 About Me
-
-- Product-focused engineer (not just code, actual usable systems)
-- Deep focus on **agentic systems, blockchain, and infra**
-- Backend-heavy: Node.js, TypeScript, distributed systems
-- Strong interest in **DeFi, mechanism design, digital identity**
+> I design and ship systems that automate workflows, move money, and scale operations.
 
 ---
 
-## ⚙️ Current Focus
+## ⚡ What I Do
 
-### 🚀 Onhandl  
-Agents that manage money, tasks, and workflows.
+I build **agent-driven products** focused on:
 
-- Low-code / no-code agent infrastructure  
-- Payment automation (links, execution flows)  
-- Multi-channel agents (bots, APIs, apps)  
+- Payments & financial automation  
+- Workflow orchestration (low-code / no-code)  
+- Blockchain infrastructure (EVM + multichain)  
+- Backend systems that scale and execute reliably  
 
 ---
 
-## 🛠️ Stack
+## 🚀 Featured Product
 
-**Core**
-- TypeScript, Solidity
+### 🧠 Onhandl  
+**Agents that manage money, tasks, and workflows.**
 
-**Backend & Infra**
-- Node.js, Fastify, MongoDB, Docker, Nginx
+- Build agents without code  
+- Automate payments, links, and execution flows  
+- Run across bots, APIs, and applications  
 
-**Blockchain**
-- EVM, Foundry, OpenZeppelin  
-- Chainlink, The Graph  
+> This is an actively evolving system focused on real-world automation.
 
-**Frontend**
-- Next.js, React, Wagmi, Viem  
+---
+
+## ⛓️ Blockchain & Systems Experience
+
+| Domain            | Technologies / Stack                                                                 |
+|-------------------|----------------------------------------------------------------------------------------|
+| Chains (EVM)      | Ethereum, Base, Scroll, Lisk                                                         |
+| Chains (Non-EVM)  | Stellar, CKB Nervos                                                                 |
+| Privacy           | Aztec (ZK systems, private execution, Noir)                                          |
+| Languages         | TypeScript, JavaScript, Python, Rust, Noir                                           |
+| Smart Contracts   | Solidity, Foundry, OpenZeppelin                                                      |
+| Identity          | ENS                                                                                |
+| Systems           | Payments, wallets, agent execution, automation pipelines, indexing                  |
+
+> Built across multiple ecosystems with a strong focus on payments, automation, and privacy-aware systems.
+
+---
+
+## 🧱 What I Can Build
+
+- Agent-based systems (AI + workflows + automation)
+- Payment systems (links, wallets, integrations)
+- Blockchain applications (smart contracts, DAOs, DeFi tools)
+- Backend architecture (scalable APIs, execution engines, infra)
 
 ---
 
@@ -59,7 +71,7 @@ Agents that manage money, tasks, and workflows.
 
 ---
 
-## 📫 Connect
+## 📫 Work With Me
 
 - Twitter: https://twitter.com/mulinyafadhil  
 - LinkedIn: https://www.linkedin.com/in/fadhil-mulinya-35464b238/  
@@ -68,5 +80,5 @@ Agents that manage money, tasks, and workflows.
 
 ## ⚡ Philosophy
 
-> Build products that reduce friction.  
+> Build things that remove friction.  
 > If it doesn’t automate, scale, or generate value — it’s noise.
